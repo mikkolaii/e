@@ -23,7 +23,7 @@
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 258;
   --dplus-accent-color-saturation: 60%;
-  --dplus-accent-color-lightness: 31%;
+  --dplus-accent-color-lightness: 62%;
 
 /* Foreground color: For things like text and icons. */
   --dplus-foreground-color-hue-base: 258;
@@ -60,16 +60,16 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'Kanit';
-  --dplus-font-body: 'Kanit';
-  --dplus-font-header: 'Kanit';
+  --dplus-font-ui: 'Kanit Regular';
+  --dplus-font-body: 'Kanit Regular';
+  --dplus-font-header: 'Kanit Regular';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
    UI radius must be in pixels, otherwise things break. */
   --dplus-radius-ui: 10px;
-  --dplus-radius-avatar: 20%;
-  --dplus-radius-server: 20%;
+  --dplus-radius-avatar: 100%;
+  --dplus-radius-server: 100%;
 
 /* This decides how much breathing room there should be between things like buttons and content. */
   --dplus-spacing-ui: 10px;
@@ -78,7 +78,7 @@ Set avatar/server radius to 50% to make them circular.
    --dplus-spacing-app: 10px;
 
 /* Size of user and server icons */
---dplus-icon-avatar-chat: 64px;
+--dplus-icon-avatar-chat: 52px;
 --dplus-icon-avatar-list: 32px;
 --dplus-icon-avatar-profile: 80px;
 
