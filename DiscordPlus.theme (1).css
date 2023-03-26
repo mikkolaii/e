@@ -60,9 +60,9 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'Kanit Regular';
-  --dplus-font-body: 'Kanit Regular';
-  --dplus-font-header: 'Kanit Regular';
+  --dplus-font-ui: 'Nunito';
+  --dplus-font-body: 'Nunito';
+  --dplus-font-header: 'Nunito';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
@@ -78,7 +78,7 @@ Set avatar/server radius to 50% to make them circular.
    --dplus-spacing-app: 10px;
 
 /* Size of user and server icons */
---dplus-icon-avatar-chat: 52px;
+--dplus-icon-avatar-chat: 40px;
 --dplus-icon-avatar-list: 32px;
 --dplus-icon-avatar-profile: 80px;
 
@@ -86,6 +86,6 @@ Set avatar/server radius to 50% to make them circular.
 --dplus-icon-server-list: 32px;
 
 /* The Home icon on the top left */
---dplus-icon-home-dark: url(https://plusinsta.github.io/discord-plus/assets/discord/home_dark.svg);
+--dplus-icon-home-dark: url(https://i.imgur.com/nawQavI.gif);
 --dplus-icon-home-light: url(https://plusinsta.github.io/discord-plus/assets/discord/home_light.svg);
 }
