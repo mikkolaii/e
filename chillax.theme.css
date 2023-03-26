@@ -83,9 +83,9 @@
 
 
 /*chillax colours rgb*/ /* Google RGB Picker: https://g.co/kgs/NoY83h */
-  --accentcolor:	  251, 84, 84;	
+  --accentcolor:	  199, 89, 254;	
 /*chillax colours hex*/ /* Google RGB Picker: https://g.co/kgs/NoY83h */
-  --accentcolorV2:     #fb5454;
+  --accentcolorV2:     #C759FE;
      
      
 /*settings modal root*/
@@ -96,7 +96,7 @@
 
      
 /*background image*/ /*(replace the link to use)*/
-  --background-image:var(--de-suggested-bg);
+  --background-image:var(https://i.imgur.com/bi57JwS.jpg);
 /*bg dev suggestions*/
   --wq-suggested-bg: url('https://wallpaperaccess.com/full/2799204.jpg');
   --de-suggested-bg: url('https://i.imgur.com/BtNVFtq.jpg');
